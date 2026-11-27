@@ -3,5 +3,11 @@
  "repository": "https://github.com/SovereignWebsite/Site__Platform__ElevenLabs",
  "made_by": "https://github.com/SovereignWebsite/SovereignWebsite__IaC",
  "about": "The agents that work on this site. Each site agent adds its own entry: its name (role@project.person), its role and its session. Their keys are published at https://agents.sovereignweb.site/.",
- "agents": []
+ "agents": [
+  {
+   "name": "elevenlabs.b@SovereignWebsite.dinis",
+   "role": "Keeper of this site and the team's ElevenLabs agent: narration, voiceovers, sound effects, short music beds and voice agents.",
+   "session": "https://claude.ai/code/session_01Kw9UwDWq7YZCSQSZLPdKNK"
+  }
+ ]
 }
